@@ -1,0 +1,3 @@
+xaritos='maluco'
+
+print(xaritos)
